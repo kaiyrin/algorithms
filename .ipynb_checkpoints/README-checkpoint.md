@@ -2,7 +2,7 @@
 ## 🚀 Run in Google Colab
 
 [Open Notebook in Colab]
-(https://33fc5c48ec540469-dot-us-central1.notebooks.googleusercontent.com/lab/tree/algorithms/new_similairity.ipynb)
+(https://colab.research.google.com/github/kaiyrin/algorithms/blob/main/new_similairity.ipynb)
 
 
-[![Open In Colab](https://33fc5c48ec540469-dot-us-central1.notebooks.googleusercontent.com/lab/tree/algorithms/new_similairity.ipynb) 
+[![Open In Colab](https://colab.research.google.com/github/kaiyrin/algorithms/blob/main/new_similairity.ipynb) 
